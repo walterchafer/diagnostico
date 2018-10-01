@@ -3,3 +3,40 @@
   margin: 0%;
   padding: 0%;
 }
+
+header
+{
+  margin-top: 5%;
+  background-color: #76706b;
+  padding-top: 2%;
+	padding-bottom: 2%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+ul li a
+{
+	text-decoration: none;
+	color: #ffffff;
+  width: 30%;
+  font-family: 'Monda', sans-serif;
+  font-size: 2em;
+  font-style:normal;
+}
+
+ul li
+{
+  display: inline;
+  width: 90%;
+  background-color: #76706B;
+  padding-top: 2%;
+	padding-bottom: 2%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.bot
+{
+  width: 100%;
+  text-align: center;
+}
