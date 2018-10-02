@@ -27,7 +27,6 @@ ul li a
 ul li
 {
   display: inline;
-  width: 90%;
   background-color: #76706B;
   padding-top: 2%;
 	padding-bottom: 2%;
@@ -37,6 +36,18 @@ ul li
 
 .bot
 {
-  width: 100%;
   text-align: center;
+  width: 100%;
+}
+
+div
+{
+  font-family: 'Karla', sans-serif;
+  font-style: normal;
+}
+
+.tit
+{
+  font-size: 8em;
+
 }
